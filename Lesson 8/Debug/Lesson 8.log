@@ -1,4 +1,4 @@
-﻿  Source.cpp
-  String.cpp
-  Generating Code...
-  Lesson 8.vcxproj -> C:\Users\dev\source\repos\Lesson 8\Debug\Lesson 8.exe
+﻿  String.cpp
+C:\Users\Igor\source\repos\Lesson8OOP_unvalue\Lesson 8\String.cpp(177,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Igor\source\repos\Lesson8OOP_unvalue\Lesson 8\String.cpp(180,21): warning C4018: '<=': signed/unsigned mismatch
+  Lesson 8.vcxproj -> C:\Users\Igor\Source\Repos\Lesson8OOP_unvalue\Debug\Lesson 8.exe
